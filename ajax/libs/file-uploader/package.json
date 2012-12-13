@@ -1,6 +1,6 @@
 {
     "name": "file-uploader",
-    "filename": "fileuploader.min.js",
+    "filename": "fineuploader.min.js",
     "version": "3.0.0",
     "description": "Multiple file upload plugin with progress-bar, drag-and-drop. ",
     "homepage": "http://fineuploader.com",
